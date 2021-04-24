@@ -1,0 +1,12 @@
+
+{
+  "days": [
+    {"day": "mon", "time": 8},
+    {"day": "tue", "time": 9},
+    {"day": "wed", "time": 10},
+    {"day": "thu", "time": 11},
+    {"day": "fri", "time": 12},
+    {"day": "sat", "time": 13},
+    {"day": "sun", "time": 14}
+  ]
+}
