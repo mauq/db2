@@ -7,4 +7,5 @@
     {"day": "mon", "timestamp": 1619912005000, "condis": "sunny"},
     {"day": "tue", "timestamp": 1619998405000, "condis": "sunny"},
     {"day": "wed", "timestamp": 1620084805000, "condis": "partly sunny"}
+  ]
 }
