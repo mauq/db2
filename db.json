@@ -7,6 +7,6 @@
     {"day": "sun", "timestamp": 1619819697000, "condis": "partly cloudy"},
     {"day": "mon", "timestamp": 1619912005000, "condis": "sunny"},
     {"day": "tue", "timestamp": 1619998405000, "condis": "sunny"},
-    {"day": "wed", "timestamp": 1620084805000, "condis": "partly sunny"},
+    {"day": "wed", "timestamp": 1620084805000, "condis": "partly sunny"}
   ]
 }
