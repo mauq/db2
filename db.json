@@ -1,12 +1,12 @@
 
 {
   "days": [
-    {"day": "thu", "timestamp": 4},
-    {"day": "fri", "timestamp": 5},
-    {"day": "sat", "timestamp": 6},
-    {"day": "sun", "timestamp": 7},
-    {"day": "mon", "timestamp": 8},
-    {"day": "tue", "timestamp": 9},
-    {"day": "wed", "timestamp": 10}
+    {"day": "thu", "timestamp": 1619560497000, "condis": "rain"},
+    {"day": "fri", "timestamp": 1619646897000, "condis": "rain"},
+    {"day": "sat", "timestamp": 1619733297000, "condis": "cloudy"},
+    {"day": "sun", "timestamp": 1619819697000, "condis": "partly cloudy"},
+    {"day": "mon", "timestamp": 1619912005000, "condis": "sunny"},
+    {"day": "tue", "timestamp": 1619998405000, "condis": "sunny"},
+    {"day": "wed", "timestamp": 1620084805000, "condis": "partly sunny"},
   ]
 }
